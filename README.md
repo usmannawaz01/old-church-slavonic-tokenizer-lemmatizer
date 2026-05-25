@@ -1,4 +1,4 @@
-# Old Church Slavonic Lemmatization Benchmark
+# Towards Benchmarking Old Church Slavonic Lemmatization
 
 This repository contains reproducibility scripts for Old Church Slavonic tokenization and lemmatization experiments with Stanza.
 
